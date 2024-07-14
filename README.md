@@ -1,6 +1,4 @@
-[![MasterHead](https://iconscout.com/lottie-animation/mobile-application-developer-6369150)](https://red-stevo.io)
-
-  <h1 align="center">Red-stevo</h1>
+ <h1 align="center">Red-stevo</h1>
   <h3 align="center"></h3>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=red-stevo&label=Profile%20views&color=0e75b6&style=flat" alt="red-stevo" /> </p>
